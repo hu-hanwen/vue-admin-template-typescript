@@ -7,5 +7,9 @@
     {
       "path": "./tsconfig.app.json"
     }
-  ]
+  ],
+  "compilerOptions": {
+    // 指定element-plus全局组件类型
+    "types": ["element-plus/global"]
+  }
 }
