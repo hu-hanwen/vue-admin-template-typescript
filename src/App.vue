@@ -5,7 +5,6 @@
 
 <script lang="ts" setup name="App">
 import { Delete } from '@element-plus/icons-vue'
-
 </script>
 
 <style scoped></style>
